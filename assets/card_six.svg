@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.5in"
+   height="3.5in"
+   viewBox="0 0 63.500001 88.9"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="card_six.svg"
+   inkscape:export-filename="CardSkip.png"
+   inkscape:export-xdpi="56"
+   inkscape:export-ydpi="56"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3772587"
+     inkscape:cx="116.89888"
+     inkscape:cy="181.15696"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.08;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
+       d="m 2.5400001,3.120989 c 0,27.553398 0,55.106797 0,82.660194 0.3762317,0.659482 1.0645629,0.579706 1.7310234,0.551733 18.6990085,0 37.3980165,0 56.0970245,0 0.672165,-0.369132 0.590854,-1.044475 0.562344,-1.69836 0,-27.171189 0,-54.342378 0,-81.513567 -0.376232,-0.6594813 -1.064563,-0.5797048 -1.731023,-0.5517329 -18.699008,0 -37.398017,0 -56.0970249,0 -0.187448,0.183911 -0.374896,0.367822 -0.562344,0.5517329 z" />
+    <path
+       id="path1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5.08001;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.049888,25.917281 c 0,12.355146 0,24.710292 0,37.065438 0.163544,0.295715 0.46275,0.259943 0.752451,0.2474 8.128187,0 16.256374,0 24.38456,0 0.292181,-0.165522 0.256836,-0.468349 0.244443,-0.761557 0,-12.18376 0,-24.367521 0,-36.551281 -0.163542,-0.295716 -0.46275,-0.259944 -0.75245,-0.2474 -8.128188,0 -16.256374,0 -24.38456,0 -0.08148,0.08247 -0.162962,0.164933 -0.244444,0.2474 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.54;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="20.653357"
+       y="57.90612"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+         x="20.653357"
+         y="57.90612">6</tspan></text>
+  </g>
+</svg>
