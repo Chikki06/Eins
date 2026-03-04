@@ -5,7 +5,7 @@
 * Group Name: **1**  
 * Group member names and NetIDs:   
   Anuj Awasthi  
-  Akshat Kumar Shahi
+  Akshat Kumar Shahi  
   Kalin Patel  
   Anthony Santiago  
 * Project Introduction  
